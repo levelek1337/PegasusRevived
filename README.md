@@ -21,5 +21,4 @@ https://discord.gg/S8QAJjJkxz
 -  Delete Shit From Title ID list
 -  Store ID to Title ID converter
 -  Halo 5 Ultra White Emblem
--  Change Bio on your profile
--  other small shit
+-  other small options
