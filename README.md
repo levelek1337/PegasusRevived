@@ -2,16 +2,19 @@
 - Best Free Xbox Tool
 - Revival of Pegasus Project
 
+# Release 1.3.1
+- partial source code soon
+
 # Official Discord Server
 https://discord.gg/S8QAJjJkxz
 
 # Features
 -  Token Grabber
--  Game Search by Xbox API
+-  Game/App Search by Xbox API
 -  Manual Achievements Unlocker
 -  Auto Achievements Unlocker
 -  Spoof Games (Online Status)
--  Spoof Achievements on Activity Feed (including custom date and time, spoof its someone else achievement)
+-  Spoof Achievements on Activity Feed (custom date and time, spoof its someone else achievement)
 - ^ including Day One Achievement and other rarest achievements like YouTube
 -  Xbox Party Tool
 -  Xbox 360 Avatar Stealer
