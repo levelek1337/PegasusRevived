@@ -1,8 +1,9 @@
 # Pegasus Revived
 - Best Free Xbox Tool
 - Revival of Pegasus Project
+- Only for Educational Purposes
 
-# Release 1.3.1
+# Release 1.4.0
 - partial source code soon
 
 # Official Discord Server
@@ -19,6 +20,7 @@ https://discord.gg/S8QAJjJkxz
 -  Xbox Party Tool
 -  Xbox 360 Avatar Stealer
 -  Minecraft Skins/Packs Unlocker
+-  Minecraft Store Downloader
 -  Search XUID by Gamertag and Reverse
 -  Extract Title ID list from Profile
 -  Delete Shit From Title ID list
