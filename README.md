@@ -12,8 +12,7 @@ https://discord.gg/S8QAJjJkxz
 # Features
 -  Token Grabber
 -  Game/App Search by Xbox API
--  Manual Achievements Unlocker
--  Auto Achievements Unlocker
+-  Manual/Auto Achievements Unlocker
 -  Spoof Games (Online Status)
 -  Spoof Achievements on Activity Feed (custom date and time, spoof its someone else achievement)
 - ^ including Day One Achievement and other rarest achievements like YouTube
