@@ -460,7 +460,7 @@ namespace PegasusV2Beta
                 using (Form prompt = new Form())
                 {
                     prompt.Width = 400;
-                    prompt.Height = 150;
+                    prompt.Height = 165;
                     prompt.Text = "Restore Backup";
                     prompt.FormBorderStyle = FormBorderStyle.FixedDialog;
                     prompt.StartPosition = FormStartPosition.CenterParent;
@@ -536,4 +536,5 @@ namespace PegasusV2Beta
             this.WindowState = FormWindowState.Minimized;
         }
     }
+
 }
