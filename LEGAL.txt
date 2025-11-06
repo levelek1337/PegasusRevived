@@ -1,0 +1,26 @@
+--- Pegasus Revived ---
+-- Policy & Disclaimer --
+
+No Affiliation
+
+This software is independently created and is not affiliated with, endorsed by, or sponsored by Microsoft or any other company.
+
+Free Access and Educational Purpose
+
+This software is provided free of charge and is intended solely for educational purposes.
+
+Copyright
+
+The developers do not claim ownership of any third-party content (e.g. graphics) used in the software. Such content is subject to the rights of its respective owners. The source code (excluding external libraries used in tool like memory.dll) is the intellectual property of the Pegasus Revived developers.
+
+No Encouragement of Illegal Activity
+
+This software does not promote or encourage illegal distribution or copyright infringement.
+
+No Warranties
+
+This software is provided "as is," without any guarantees whether express or implied, including but not limited to warranties of safety, legality.
+
+User Responsibility
+
+Users assume full responsibility for downloading, installing, and using this software, including ensuring compliance with applicable laws and any associated risks, direct or indirect damages, or legal consequences. The developers shall not be liable for any issues arising from the use of this software.
