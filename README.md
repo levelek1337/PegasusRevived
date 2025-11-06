@@ -3,8 +3,8 @@
 - Revival of Pegasus Project
 - Only for Educational Purposes
 
-# Release 1.4.0
-- partial source code soon
+# Credits
+- used in Pegasus for grabbing token : https://github.com/erfg12/memory.dll
 
 # Official Discord Server
 https://discord.gg/S8QAJjJkxz
